@@ -1,4 +1,4 @@
 # TarefaPMDM01
 
 
-![Fallo al cargar cargar la imagen](https://github.com/hundios/Ola/blob/master/Ola%20Mundo.png)
+![Fallo al cargar cargar la imagen](https://github.com/hundios/TarefaPMDM01/blob/master/andro.png)
